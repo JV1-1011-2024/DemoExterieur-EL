@@ -44733,8 +44733,8 @@ MonoBehaviour:
   m_UpdateMethod: 2
   m_BlendUpdateMethod: 1
   m_DefaultBlend:
-    m_Style: 1
-    m_Time: 2
+    m_Style: 0
+    m_Time: 0
     m_CustomCurve:
       serializedVersion: 2
       m_Curve: []
@@ -87408,8 +87408,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2147100464}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.09849972, y: 0.33925703, z: -0.035745952, w: 0.9348394}
-  m_LocalPosition: {x: 148.61154, y: 22.129173, z: 62.859467}
+  m_LocalRotation: {x: 0.102363475, y: 0.3391043, z: -0.037147865, w: 0.934425}
+  m_LocalPosition: {x: 148.78, y: 23.34, z: 63.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
